@@ -4,6 +4,9 @@ In 2017, Walt Hickey from FiveThirtyEight wanted to find out which Halloween can
 
 The data was created in a CSV format consisting of the following columns: competitorname, chocolate, fruity, caramel, peanutalmondy, nougat, crispedricewafer, hard, bar, pluribus, sugarpercent, pricepercent, and winpercent.
 
+## Data Source:
+The dataset used for this analysis is available at https://mavenanalytics.io/data-playground
+
 ## Prerequisites:
 I utilized the following tools for analysis:
 * Anaconda & Jupyter Notebook
